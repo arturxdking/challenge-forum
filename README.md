@@ -40,11 +40,4 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Lombok](https://projectlombok.org)**
 - **[JWT](https://jwt.io/)**
 
-**
 
----
-
-
-## 📝 Licença
-
-Projeto desenvolvido por [JonasSmendes](https://repositorio-jonas-mendes.vercel.app/).
